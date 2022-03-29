@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://www.radiators4u.co.uk/",
+  "port": 3000,
+  "clientId": "obll93kvx2cwo2f5tiz19a7587sqtzh",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
